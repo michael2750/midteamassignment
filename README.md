@@ -1,5 +1,5 @@
 # midterm_assignment
-### This assignment was made in a group by Laura Hartig, Tim Hemmingsen, Ørvur Guttesen and Michael Daugbjerg.
+#### This assignment was made in a group by Laura Hartig, Tim Hemmingsen, Ørvur Guttesen and Michael Daugbjerg.
 
 ### Project 1
 
